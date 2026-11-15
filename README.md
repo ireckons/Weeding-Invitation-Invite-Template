@@ -1,20 +1,21 @@
-# Beach – Indian Wedding Invitation Website
+# Snap Studios – Beach Wedding Invitation Website
 
-A responsive, interactive wedding invitation website copied and configured to run locally.
+A responsive, interactive wedding invitation website template by **Snap Studios**.
+
+---
+
+## 🌐 Live Demo & Repository
+
+* 🚀 **Live Website (Vercel):** [https://snapstudio-invitation-template.vercel.app](https://snapstudio-invitation-template.vercel.app)
+* 🐙 **GitHub Repository:** [https://github.com/ireckons/Weeding-Invitation-Invite-Template](https://github.com/ireckons/Weeding-Invitation-Invite-Template)
 
 ---
 
 ## 🚀 Running on Localhost
 
-The local server is already running! You can open your browser and visit:
-
-👉 **[http://localhost:3000](http://localhost:3000)**
-
-*(Alternatively, you can also access it at [http://localhost:3000/demos/beach](http://localhost:3000/demos/beach))*
-
-Whenever you want to restart or launch the server in the future, simply double-click:
-- **`start_server.bat`** (Automatically launches the server and opens your browser)
-- Or run in terminal: `python server.py`
+Whenever you want to run it locally, simply double-click:
+* **`start_server.bat`** (Automatically launches the server and opens your browser at [http://localhost:3000](http://localhost:3000))
+* Or run in terminal: `python server.py`
 
 ---
 
