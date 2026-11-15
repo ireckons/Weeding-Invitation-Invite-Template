@@ -1,0 +1,8 @@
+{
+  "name": "snapstudio-invitation-template",
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/demos/beach", "destination": "/index.html" },
+    { "source": "/demos/beach/", "destination": "/index.html" }
+  ]
+}
